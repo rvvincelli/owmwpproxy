@@ -1,0 +1,17 @@
+{
+    "name": "calaber/owproxy",
+    "authors": [
+        {
+            "name": "Riccardo V. Vincelli",
+            "email": "rvvincelli@github.com"
+        }
+    ],
+    "require": {
+        "cmfcmf/openweathermap-php-api": "^3.3",
+        "johnpbloch/wordpress-core": "^5.8",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "php-http/guzzle6-adapter": "^2.0 || ^1.0",
+        "matthiasmullie/scrapbook": "^1.4",
+        "digicomp/league-flysystem": "^2.1"
+    }
+}
