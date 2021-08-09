@@ -55,6 +55,10 @@ Our endpoint specifies cache directives for the response. The default icon is se
 
 Make sure your hosting provider web server honors these caching headers.
 
+## Local development
+
+Just checkout the repo and give a `composer install`.
+
 ## Why this?
 
 What we needed was a customization of an existing commercial plugin, and we wanted to do it properly.
